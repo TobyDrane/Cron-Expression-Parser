@@ -1,0 +1,9 @@
+{
+  "name": "Cron-Expression-Parser",
+  "version": "1.0.0",
+  "description": "Simple cron string expression parser",
+  "main": "index.js",
+  "repository": "https://github.com/TobyDrane/Cron-Expression-Parser.git",
+  "author": "Toby Drane <tobydrane@gmail.com>",
+  "license": "MIT"
+}
